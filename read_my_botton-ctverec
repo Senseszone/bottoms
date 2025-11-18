@@ -1,0 +1,4 @@
+
+– komponenta řeší jen vzhled a index, žádný čas, žádnou logiku hry, žádné emitEvent/emitScore;
+– všechny stavy (barva, uiState, showSuccess, disabled) přicházejí zvenku z engine hry;
+– velikost buňky je fixní (default 166×166), takže grid můžeš libovolně skládat přes gapy/rozestupy.
