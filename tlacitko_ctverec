@@ -1,7 +1,7 @@
 /** UI-only buňka pro grid iSenses */
 function ButtonCell({
   idx,
-  size = 166,
+  size = 120,
   borderPx = 7,
   radius = 10,
   color = null,          // "green" | "red" | "orange" | null
